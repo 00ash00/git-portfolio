@@ -1,7 +1,13 @@
-# GIT PORTFOLIO SDT301
+# Git Portfolio
 
-Python calculator project that demonstrates Git workflows
+Python calculator project that demonstrates Git workflows.
 
-## RUN
+## Functions
+
+- add, subtract, multiply, divide
+- power
+
+
+## Run
 
 python main.py
