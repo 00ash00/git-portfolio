@@ -8,6 +8,9 @@ Python calculator project that demonstrates Git workflows.
 - power
 - modulo
 
+## Tests
+
+Run tests with: python -m pytest
 
 ## Run
 
