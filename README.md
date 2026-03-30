@@ -6,6 +6,7 @@ Python calculator project that demonstrates Git workflows.
 
 - add, subtract, multiply, divide
 - power
+- modulo
 
 
 ## Run
