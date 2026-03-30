@@ -10,7 +10,7 @@ Python calculator project that demonstrates Git workflows.
 
 ## Tests
 
-Run tests with: python -m pytest
+Run tests with: python3 -m pytest
 
 ## Run
 
